@@ -97,4 +97,4 @@ Ou
 ## Autores
 
 -   Giovanna Borges Coelho
--   Isabella
+-   Isabella Rodrigues de Oliveira

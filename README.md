@@ -1,18 +1,16 @@
 # Proj1-ComputacaoVisual
 
 Software em **C** para processamento de imagens usando **SDL3**,
-**SDL_image** e **SDL_ttf**.\
+**SDL_image** e **SDL_ttf**.
 Desenvolvido para a disciplina Computação Visual - Universidade
 Presbiteriana Mackenzie.
 
 ## Objetivo
 
-O programa carrega uma imagem (PNG, JPG ou BMP), verifica se já está em
-escala de cinza e, se não estiver, converte automaticamente.\
+O programa carrega uma imagem (PNG, JPG ou BMP), verifica se já está em escala de cinza e, se não estiver, converte automaticamente.
 Ele exibe:
 
--   **Janela principal**: mostra a imagem em escala de cinza ou
-    equalizada.\
+-   **Janela principal**: mostra a imagem em escala de cinza ou equalizada.
 -   **Janela secundária**: mostra o **histograma** da imagem,
     estatísticas (média e contraste) e um **botão** para equalizar ou
     reverter a imagem.
@@ -29,7 +27,6 @@ teclado.
     -   Detecta se a imagem já é grayscale
 
     -   Converte automaticamente, aplicando a fórmula
-
             Y = 0.2125 * R + 0.7154 * G + 0.0721 * B
 3.  **Interface gráfica**
     -   Duas janelas:
@@ -61,7 +58,7 @@ Isso compila todo o projeto e gera o executável `main` ou `main.exe`.
 
 ## Execução
 
-Para rodar o programa, use:
+Para rodar o programa, use, no diretório "...\Proj1-Computacao_Visual\Proj1":
 
 PS.: Lembrando que as imagens devem estar na pasta "Proj1"
 

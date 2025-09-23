@@ -1,4 +1,5 @@
-// Copyright (c) 2025 Andre Kishimoto - https://kishimoto.com.br/ || Alunos: Giovanna Borges Coelho, 
+// Copyright (c) 2025 Andre Kishimoto - https://kishimoto.com.br/
+// Alunos: Giovanna Borges Coelho e Isabella Rodrigues de Oliveira
 // SPDX-License-Identifier: Apache-2.0
 
 #include "app.h"

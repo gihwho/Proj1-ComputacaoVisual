@@ -95,3 +95,9 @@ Ou
 
 -   Giovanna Borges Coelho
 -   Isabella Rodrigues de Oliveira
+
+## Responsabilidades de cada um
+
+-   Isabella: Implementação da interface gráfica (duas janelas SDL), criação e programação do botão Equalizar/Original, testes de usabilidade, além da documentação do repositório.
+
+-   Giovanna: Desenvolvimento do carregamento e conversão de imagens para escala de cinza, cálculo do histograma e equalização.

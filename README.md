@@ -5,6 +5,11 @@ Software em **C** para processamento de imagens usando **SDL3**,
 Desenvolvido para a disciplina Computação Visual - Universidade
 Presbiteriana Mackenzie.
 
+## Autores
+
+-   Giovanna Borges Coelho
+-   Isabella Rodrigues de Oliveira
+
 ## Objetivo
 
 O programa carrega uma imagem (PNG, JPG ou BMP), verifica se já está em escala de cinza e, se não estiver, converte automaticamente.
@@ -90,11 +95,6 @@ Ou
   `ui.c`         Interface do botão e renderização de textos.
 
   `config.h`     Constantes de tamanho e configurações gerais.
-
-## Autores
-
--   Giovanna Borges Coelho
--   Isabella Rodrigues de Oliveira
 
 ## Responsabilidades de cada um
 

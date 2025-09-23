@@ -54,6 +54,8 @@ teclado.
 
 PS.: Não esqueça de fazer as alterações no arquivo Makefile de acordo com o seu diretório.
 
+PS.2: No arquivo main.c não esqueça de colocar o diretório da fonte no font_path.
+
 No terminal (dentro da pasta do projeto "Proj1"),
 execute:
 

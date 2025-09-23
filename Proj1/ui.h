@@ -26,7 +26,7 @@ bool ui_button_handle_event(UIButton* b, const SDL_Event* ev, Uint32 windowID);
 // Desenha o botão (rótulo centralizado)
 void ui_button_draw(SDL_Renderer* r, UIButton* b, TTF_Font* font);
 
-// Renderiza texto com SDL_ttf 3.x -> retorna texture com tamanho. out_w/out_h são opcionais
+// Renderiza texto com SDL_ttf 3.0x -> retorna texture com tamanho. out_w/out_h são opcionais
 SDL_Texture* ui_render_text(SDL_Renderer* r, TTF_Font* font, const char* txt,
                             SDL_Color color, int* out_w, int* out_h);
 

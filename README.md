@@ -52,6 +52,8 @@ teclado.
 
 - Bibliotecas **SDL3**, **SDL_image** e **SDL_ttf**
 
+PS.: Não esqueça de fazer as alterações no arquivo Makefile de acordo com o seu diretório.
+
 No terminal (dentro da pasta do projeto "Proj1"),
 execute:
 
